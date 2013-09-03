@@ -30,7 +30,11 @@
           <a:bodyPr />
           <a:lstStyle />
           <a:p>
-            <a:endParaRPr lang="en-IN" />
+            <a:r>
+              <a:rPr lang="en-IN" dirty="0" smtClean="0" />
+              <a:t>Add new title</a:t>
+            </a:r>
+            <a:endParaRPr lang="en-IN" dirty="0" />
           </a:p>
         </p:txBody>
       </p:sp>
@@ -49,7 +53,11 @@
           <a:bodyPr />
           <a:lstStyle />
           <a:p>
-            <a:endParaRPr lang="en-IN" />
+            <a:r>
+              <a:rPr lang="en-IN" dirty="0" smtClean="0" />
+              <a:t>Add new subtitle</a:t>
+            </a:r>
+            <a:endParaRPr lang="en-IN" dirty="0" />
           </a:p>
         </p:txBody>
       </p:sp>
