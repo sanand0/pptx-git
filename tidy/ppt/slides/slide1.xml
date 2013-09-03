@@ -75,6 +75,9 @@
           <a:prstGeom prst="ellipse">
             <a:avLst />
           </a:prstGeom>
+          <a:solidFill>
+            <a:schemeClr val="accent2" />
+          </a:solidFill>
         </p:spPr>
         <p:style>
           <a:lnRef idx="2">
