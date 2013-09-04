@@ -27,8 +27,8 @@
         </p:nvSpPr>
         <p:spPr>
           <a:xfrm>
-            <a:off x="685800" y="1254579" />
-            <a:ext cx="10567244" cy="3221718" />
+            <a:off x="685800" y="1439245" />
+            <a:ext cx="5400381" cy="2852386" />
           </a:xfrm>
           <a:noFill />
           <a:ln w="3175">
@@ -45,14 +45,14 @@
           <a:p>
             <a:pPr algn="l" />
             <a:r>
-              <a:rPr lang="en-IN" dirty="0" smtClean="0" />
+              <a:rPr lang="en-IN" sz="2000" dirty="0" smtClean="0" />
               <a:t>Add new</a:t>
             </a:r>
             <a:r>
-              <a:rPr lang="en-IN" dirty="0" smtClean="0" />
+              <a:rPr lang="en-IN" sz="2000" dirty="0" smtClean="0" />
               <a:t>title Add new title Add new title</a:t>
             </a:r>
-            <a:endParaRPr lang="en-IN" dirty="0" />
+            <a:endParaRPr lang="en-IN" sz="2000" dirty="0" />
           </a:p>
         </p:txBody>
       </p:sp>
