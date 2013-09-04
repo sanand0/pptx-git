@@ -92,7 +92,9 @@
           <a:noFill />
           <a:ln w="3175">
             <a:solidFill>
-              <a:srgbClr val="FF0000" />
+              <a:srgbClr val="FF0000">
+                <a:alpha val="50196" />
+              </a:srgbClr>
             </a:solidFill>
           </a:ln>
         </p:spPr>
