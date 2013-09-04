@@ -27,6 +27,11 @@
         </p:nvSpPr>
         <p:spPr>
           <a:noFill />
+          <a:ln w="3175">
+            <a:solidFill>
+              <a:schemeClr val="tx1" />
+            </a:solidFill>
+          </a:ln>
         </p:spPr>
         <p:txBody>
           <a:bodyPr />
@@ -52,6 +57,11 @@
         </p:nvSpPr>
         <p:spPr>
           <a:noFill />
+          <a:ln w="3175">
+            <a:solidFill>
+              <a:schemeClr val="tx1" />
+            </a:solidFill>
+          </a:ln>
         </p:spPr>
         <p:txBody>
           <a:bodyPr />
@@ -80,7 +90,7 @@
             <a:avLst />
           </a:prstGeom>
           <a:noFill />
-          <a:ln>
+          <a:ln w="3175">
             <a:solidFill>
               <a:srgbClr val="FF0000" />
             </a:solidFill>
