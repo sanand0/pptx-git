@@ -39,7 +39,11 @@
           <a:p>
             <a:r>
               <a:rPr lang="en-IN" dirty="0" smtClean="0" />
-              <a:t>Add new title</a:t>
+              <a:t>Add new</a:t>
+            </a:r>
+            <a:r>
+              <a:rPr lang="en-IN" dirty="0" smtClean="0" />
+              <a:t>title Add new title Add new title</a:t>
             </a:r>
             <a:endParaRPr lang="en-IN" dirty="0" />
           </a:p>
