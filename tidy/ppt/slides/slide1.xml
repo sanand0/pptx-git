@@ -37,6 +37,7 @@
           <a:bodyPr wrap="none" />
           <a:lstStyle />
           <a:p>
+            <a:pPr algn="l" />
             <a:r>
               <a:rPr lang="en-IN" dirty="0" smtClean="0" />
               <a:t>Add new</a:t>
