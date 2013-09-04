@@ -26,6 +26,10 @@
           </p:nvPr>
         </p:nvSpPr>
         <p:spPr>
+          <a:xfrm>
+            <a:off x="685800" y="1254579" />
+            <a:ext cx="10567244" cy="3221718" />
+          </a:xfrm>
           <a:noFill />
           <a:ln w="3175">
             <a:solidFill>
@@ -35,7 +39,7 @@
         </p:spPr>
         <p:txBody>
           <a:bodyPr wrap="none" lIns="360000" tIns="1080000" rIns="720000" bIns="1440000">
-            <a:normAutofit fontScale="90000" />
+            <a:spAutoFit />
           </a:bodyPr>
           <a:lstStyle />
           <a:p>
