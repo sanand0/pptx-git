@@ -76,7 +76,9 @@
             <a:avLst />
           </a:prstGeom>
           <a:solidFill>
-            <a:schemeClr val="accent3" />
+            <a:srgbClr val="9BBB59">
+              <a:alpha val="40000" />
+            </a:srgbClr>
           </a:solidFill>
           <a:ln>
             <a:solidFill>
