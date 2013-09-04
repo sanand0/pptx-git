@@ -34,7 +34,9 @@
           </a:ln>
         </p:spPr>
         <p:txBody>
-          <a:bodyPr wrap="none" />
+          <a:bodyPr wrap="none" lIns="360000" tIns="1080000" rIns="720000" bIns="1440000">
+            <a:normAutofit fontScale="90000" />
+          </a:bodyPr>
           <a:lstStyle />
           <a:p>
             <a:pPr algn="l" />
