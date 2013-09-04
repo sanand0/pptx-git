@@ -34,7 +34,7 @@
           </a:ln>
         </p:spPr>
         <p:txBody>
-          <a:bodyPr />
+          <a:bodyPr wrap="none" />
           <a:lstStyle />
           <a:p>
             <a:r>

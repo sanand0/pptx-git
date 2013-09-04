@@ -11,7 +11,7 @@
           <a:sx n="63" d="100" />
           <a:sy n="63" d="100" />
         </p:scale>
-        <p:origin x="-72" y="-586" />
+        <p:origin x="-72" y="-538" />
       </p:cViewPr>
       <p:guideLst>
         <p:guide orient="horz" pos="2160" />
