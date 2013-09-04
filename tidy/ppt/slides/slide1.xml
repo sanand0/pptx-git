@@ -25,7 +25,9 @@
             <p:ph type="ctrTitle" />
           </p:nvPr>
         </p:nvSpPr>
-        <p:spPr />
+        <p:spPr>
+          <a:noFill />
+        </p:spPr>
         <p:txBody>
           <a:bodyPr />
           <a:lstStyle />
@@ -48,7 +50,9 @@
             <p:ph type="subTitle" idx="1" />
           </p:nvPr>
         </p:nvSpPr>
-        <p:spPr />
+        <p:spPr>
+          <a:noFill />
+        </p:spPr>
         <p:txBody>
           <a:bodyPr />
           <a:lstStyle />
@@ -75,11 +79,7 @@
           <a:prstGeom prst="ellipse">
             <a:avLst />
           </a:prstGeom>
-          <a:solidFill>
-            <a:srgbClr val="9BBB59">
-              <a:alpha val="40000" />
-            </a:srgbClr>
-          </a:solidFill>
+          <a:noFill />
           <a:ln>
             <a:solidFill>
               <a:srgbClr val="FF0000" />
