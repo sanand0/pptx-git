@@ -369,6 +369,42 @@
           </a:p>
         </p:txBody>
       </p:sp>
+      <p:cxnSp>
+        <p:nvCxnSpPr>
+          <p:cNvPr id="10" name="Straight Arrow Connector 9" />
+          <p:cNvCxnSpPr>
+            <a:stCxn id="7" idx="4" />
+            <a:endCxn id="8" idx="3" />
+          </p:cNvCxnSpPr>
+          <p:nvPr />
+        </p:nvCxnSpPr>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="6444208" y="908720" />
+            <a:ext cx="834897" cy="5680" />
+          </a:xfrm>
+          <a:prstGeom prst="straightConnector1">
+            <a:avLst />
+          </a:prstGeom>
+          <a:ln>
+            <a:tailEnd type="arrow" />
+          </a:ln>
+        </p:spPr>
+        <p:style>
+          <a:lnRef idx="1">
+            <a:schemeClr val="accent1" />
+          </a:lnRef>
+          <a:fillRef idx="0">
+            <a:schemeClr val="accent1" />
+          </a:fillRef>
+          <a:effectRef idx="0">
+            <a:schemeClr val="accent1" />
+          </a:effectRef>
+          <a:fontRef idx="minor">
+            <a:schemeClr val="tx1" />
+          </a:fontRef>
+        </p:style>
+      </p:cxnSp>
     </p:spTree>
     <p:extLst>
       <p:ext uri="{BB962C8B-B14F-4D97-AF65-F5344CB8AC3E}">
