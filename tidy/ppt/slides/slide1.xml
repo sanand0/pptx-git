@@ -278,6 +278,97 @@
           </a:p>
         </p:txBody>
       </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="8" name="Freeform 7" />
+          <p:cNvSpPr />
+          <p:nvPr />
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="7255042" y="180474" />
+            <a:ext cx="1010653" cy="733926" />
+          </a:xfrm>
+          <a:custGeom>
+            <a:avLst />
+            <a:gdLst>
+              <a:gd name="connsiteX0" fmla="*/ 0 w 1010653" />
+              <a:gd name="connsiteY0" fmla="*/ 0 h 733926" />
+              <a:gd name="connsiteX1" fmla="*/ 1010653 w 1010653" />
+              <a:gd name="connsiteY1" fmla="*/ 0 h 733926" />
+              <a:gd name="connsiteX2" fmla="*/ 1010653 w 1010653" />
+              <a:gd name="connsiteY2" fmla="*/ 733926 h 733926" />
+              <a:gd name="connsiteX3" fmla="*/ 24063 w 1010653" />
+              <a:gd name="connsiteY3" fmla="*/ 733926 h 733926" />
+              <a:gd name="connsiteX4" fmla="*/ 0 w 1010653" />
+              <a:gd name="connsiteY4" fmla="*/ 0 h 733926" />
+            </a:gdLst>
+            <a:ahLst />
+            <a:cxnLst>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX0" y="connsiteY0" />
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX1" y="connsiteY1" />
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX2" y="connsiteY2" />
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX3" y="connsiteY3" />
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX4" y="connsiteY4" />
+              </a:cxn>
+            </a:cxnLst>
+            <a:rect l="l" t="t" r="r" b="b" />
+            <a:pathLst>
+              <a:path w="1010653" h="733926">
+                <a:moveTo>
+                  <a:pt x="0" y="0" />
+                </a:moveTo>
+                <a:lnTo>
+                  <a:pt x="1010653" y="0" />
+                </a:lnTo>
+                <a:lnTo>
+                  <a:pt x="1010653" y="733926" />
+                </a:lnTo>
+                <a:lnTo>
+                  <a:pt x="24063" y="733926" />
+                </a:lnTo>
+                <a:lnTo>
+                  <a:pt x="0" y="0" />
+                </a:lnTo>
+                <a:close />
+              </a:path>
+            </a:pathLst>
+          </a:custGeom>
+        </p:spPr>
+        <p:style>
+          <a:lnRef idx="2">
+            <a:schemeClr val="accent1">
+              <a:shade val="50000" />
+            </a:schemeClr>
+          </a:lnRef>
+          <a:fillRef idx="1">
+            <a:schemeClr val="accent1" />
+          </a:fillRef>
+          <a:effectRef idx="0">
+            <a:schemeClr val="accent1" />
+          </a:effectRef>
+          <a:fontRef idx="minor">
+            <a:schemeClr val="lt1" />
+          </a:fontRef>
+        </p:style>
+        <p:txBody>
+          <a:bodyPr rtlCol="0" anchor="ctr" />
+          <a:lstStyle />
+          <a:p>
+            <a:pPr algn="ctr" />
+            <a:endParaRPr lang="en-IN" />
+          </a:p>
+        </p:txBody>
+      </p:sp>
     </p:spTree>
     <p:extLst>
       <p:ext uri="{BB962C8B-B14F-4D97-AF65-F5344CB8AC3E}">
