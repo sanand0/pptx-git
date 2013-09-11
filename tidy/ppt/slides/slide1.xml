@@ -155,6 +155,124 @@
           </a:p>
         </p:txBody>
       </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="5" name="Rectangle 4" />
+          <p:cNvSpPr />
+          <p:nvPr />
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="1619672" y="116632" />
+            <a:ext cx="1008112" cy="648072" />
+          </a:xfrm>
+          <a:prstGeom prst="rect">
+            <a:avLst />
+          </a:prstGeom>
+        </p:spPr>
+        <p:style>
+          <a:lnRef idx="2">
+            <a:schemeClr val="accent1">
+              <a:shade val="50000" />
+            </a:schemeClr>
+          </a:lnRef>
+          <a:fillRef idx="1">
+            <a:schemeClr val="accent1" />
+          </a:fillRef>
+          <a:effectRef idx="0">
+            <a:schemeClr val="accent1" />
+          </a:effectRef>
+          <a:fontRef idx="minor">
+            <a:schemeClr val="lt1" />
+          </a:fontRef>
+        </p:style>
+        <p:txBody>
+          <a:bodyPr rtlCol="0" anchor="ctr" />
+          <a:lstStyle />
+          <a:p>
+            <a:pPr algn="ctr" />
+            <a:endParaRPr lang="en-IN" />
+          </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="6" name="Arc 5" />
+          <p:cNvSpPr />
+          <p:nvPr />
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="3059832" y="116632" />
+            <a:ext cx="1512168" cy="1224136" />
+          </a:xfrm>
+          <a:prstGeom prst="arc">
+            <a:avLst />
+          </a:prstGeom>
+        </p:spPr>
+        <p:style>
+          <a:lnRef idx="1">
+            <a:schemeClr val="accent1" />
+          </a:lnRef>
+          <a:fillRef idx="0">
+            <a:schemeClr val="accent1" />
+          </a:fillRef>
+          <a:effectRef idx="0">
+            <a:schemeClr val="accent1" />
+          </a:effectRef>
+          <a:fontRef idx="minor">
+            <a:schemeClr val="tx1" />
+          </a:fontRef>
+        </p:style>
+        <p:txBody>
+          <a:bodyPr rtlCol="0" anchor="ctr" />
+          <a:lstStyle />
+          <a:p>
+            <a:pPr algn="ctr" />
+            <a:endParaRPr lang="en-IN" />
+          </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="7" name="Isosceles Triangle 6" />
+          <p:cNvSpPr />
+          <p:nvPr />
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="5292080" y="116632" />
+            <a:ext cx="1152128" cy="792088" />
+          </a:xfrm>
+          <a:prstGeom prst="triangle">
+            <a:avLst />
+          </a:prstGeom>
+        </p:spPr>
+        <p:style>
+          <a:lnRef idx="2">
+            <a:schemeClr val="accent1">
+              <a:shade val="50000" />
+            </a:schemeClr>
+          </a:lnRef>
+          <a:fillRef idx="1">
+            <a:schemeClr val="accent1" />
+          </a:fillRef>
+          <a:effectRef idx="0">
+            <a:schemeClr val="accent1" />
+          </a:effectRef>
+          <a:fontRef idx="minor">
+            <a:schemeClr val="lt1" />
+          </a:fontRef>
+        </p:style>
+        <p:txBody>
+          <a:bodyPr rtlCol="0" anchor="ctr" />
+          <a:lstStyle />
+          <a:p>
+            <a:pPr algn="ctr" />
+            <a:endParaRPr lang="en-IN" />
+          </a:p>
+        </p:txBody>
+      </p:sp>
     </p:spTree>
     <p:extLst>
       <p:ext uri="{BB962C8B-B14F-4D97-AF65-F5344CB8AC3E}">
