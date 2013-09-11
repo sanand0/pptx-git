@@ -84,7 +84,9 @@
       </p:sp>
       <p:sp>
         <p:nvSpPr>
-          <p:cNvPr id="4" name="Oval 3" />
+          <p:cNvPr id="4" name="Oval 3">
+            <a:hlinkClick r:id="rId2" action="ppaction://hlinksldjump" tooltip="This is a tooltip" />
+          </p:cNvPr>
           <p:cNvSpPr />
           <p:nvPr />
         </p:nvSpPr>
