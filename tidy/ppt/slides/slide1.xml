@@ -207,7 +207,10 @@
             <a:ext cx="1512168" cy="1224136" />
           </a:xfrm>
           <a:prstGeom prst="arc">
-            <a:avLst />
+            <a:avLst>
+              <a:gd name="adj1" fmla="val 10794351" />
+              <a:gd name="adj2" fmla="val 5486551" />
+            </a:avLst>
           </a:prstGeom>
         </p:spPr>
         <p:style>
