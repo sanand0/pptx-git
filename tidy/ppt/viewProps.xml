@@ -8,10 +8,10 @@
     <p:cSldViewPr>
       <p:cViewPr varScale="1">
         <p:scale>
-          <a:sx n="89" d="100" />
-          <a:sy n="89" d="100" />
+          <a:sx n="63" d="100" />
+          <a:sy n="63" d="100" />
         </p:scale>
-        <p:origin x="-1306" y="-67" />
+        <p:origin x="-72" y="-538" />
       </p:cViewPr>
       <p:guideLst>
         <p:guide orient="horz" pos="2160" />
