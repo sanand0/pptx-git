@@ -248,7 +248,9 @@
             <a:ext cx="1152128" cy="792088" />
           </a:xfrm>
           <a:prstGeom prst="triangle">
-            <a:avLst />
+            <a:avLst>
+              <a:gd name="adj" fmla="val 0" />
+            </a:avLst>
           </a:prstGeom>
         </p:spPr>
         <p:style>
