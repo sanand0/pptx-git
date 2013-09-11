@@ -89,7 +89,7 @@
           <p:nvPr />
         </p:nvSpPr>
         <p:spPr>
-          <a:xfrm>
+          <a:xfrm rot="2700000">
             <a:off x="0" y="0" />
             <a:ext cx="971600" cy="971600" />
           </a:xfrm>
