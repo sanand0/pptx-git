@@ -405,6 +405,95 @@
           </a:fontRef>
         </p:style>
       </p:cxnSp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="12" name="Freeform 11" />
+          <p:cNvSpPr />
+          <p:nvPr />
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="7158770" y="1636036" />
+            <a:ext cx="853476" cy="916496" />
+          </a:xfrm>
+          <a:custGeom>
+            <a:avLst />
+            <a:gdLst>
+              <a:gd name="connsiteX0" fmla="*/ 19 w 853476" />
+              <a:gd name="connsiteY0" fmla="*/ 240890 h 916496" />
+              <a:gd name="connsiteX1" fmla="*/ 745977 w 853476" />
+              <a:gd name="connsiteY1" fmla="*/ 36353 h 916496" />
+              <a:gd name="connsiteX2" fmla="*/ 770041 w 853476" />
+              <a:gd name="connsiteY2" fmla="*/ 914659 h 916496" />
+              <a:gd name="connsiteX3" fmla="*/ 19 w 853476" />
+              <a:gd name="connsiteY3" fmla="*/ 240890 h 916496" />
+            </a:gdLst>
+            <a:ahLst />
+            <a:cxnLst>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX0" y="connsiteY0" />
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX1" y="connsiteY1" />
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX2" y="connsiteY2" />
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX3" y="connsiteY3" />
+              </a:cxn>
+            </a:cxnLst>
+            <a:rect l="l" t="t" r="r" b="b" />
+            <a:pathLst>
+              <a:path w="853476" h="916496">
+                <a:moveTo>
+                  <a:pt x="19" y="240890" />
+                </a:moveTo>
+                <a:cubicBezTo>
+                  <a:pt x="-3992" y="94506" />
+                  <a:pt x="617640" y="-75942" />
+                  <a:pt x="745977" y="36353" />
+                </a:cubicBezTo>
+                <a:cubicBezTo>
+                  <a:pt x="874314" y="148648" />
+                  <a:pt x="894367" y="876559" />
+                  <a:pt x="770041" y="914659" />
+                </a:cubicBezTo>
+                <a:cubicBezTo>
+                  <a:pt x="645715" y="952759" />
+                  <a:pt x="4030" y="387274" />
+                  <a:pt x="19" y="240890" />
+                </a:cubicBezTo>
+                <a:close />
+              </a:path>
+            </a:pathLst>
+          </a:custGeom>
+        </p:spPr>
+        <p:style>
+          <a:lnRef idx="2">
+            <a:schemeClr val="accent1">
+              <a:shade val="50000" />
+            </a:schemeClr>
+          </a:lnRef>
+          <a:fillRef idx="1">
+            <a:schemeClr val="accent1" />
+          </a:fillRef>
+          <a:effectRef idx="0">
+            <a:schemeClr val="accent1" />
+          </a:effectRef>
+          <a:fontRef idx="minor">
+            <a:schemeClr val="lt1" />
+          </a:fontRef>
+        </p:style>
+        <p:txBody>
+          <a:bodyPr rtlCol="0" anchor="ctr" />
+          <a:lstStyle />
+          <a:p>
+            <a:pPr algn="ctr" />
+            <a:endParaRPr lang="en-IN" />
+          </a:p>
+        </p:txBody>
+      </p:sp>
     </p:spTree>
     <p:extLst>
       <p:ext uri="{BB962C8B-B14F-4D97-AF65-F5344CB8AC3E}">
